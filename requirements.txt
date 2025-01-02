@@ -1,0 +1,3 @@
+transformers
+intel-npu-acceleration-library
+torch
