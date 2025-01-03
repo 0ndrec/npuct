@@ -1,0 +1,5 @@
+.venv
+.win_venv
+cache
+models
+nc_workspace

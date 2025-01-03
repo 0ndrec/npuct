@@ -1,8 +1,0 @@
-{
-    "Name": "Chat Toy",
-    "Description": "",
-    "Author": "",
-    "Version": "0.1.0",
-    "ActionKeyword": "chat",
-    "Execute": "python path\\chat.py {query}"
-}

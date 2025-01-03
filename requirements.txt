@@ -1,3 +1,6 @@
 transformers
 intel-npu-acceleration-library
+setuptools
+json-rpc
+bitsandbytes
 torch
